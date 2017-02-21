@@ -50,7 +50,8 @@ h1 {
 
 h2 {
     
-   font: Arial;
+   font:Georgia;
+    color: Blue;
     
 }
 
@@ -91,5 +92,5 @@ ul.posts li {
 }
 
 .mad-cat {
-    color:red;
+  
 }
